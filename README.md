@@ -31,12 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![R](https://github.com/Pandurusomu/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148988619/186fe002-ba3b-4bb8-a767-2e839b4fd1c5)
+
 
 ### Output:
+![Screenshot 2023-12-19 161225](https://github.com/Pandurusomu/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148988619/a979d5a8-3b19-437e-a9f4-c28b80b91843)
 
 
-### Name:
-### Register Number:
+
+### Name: Panduru somu
+### Register Number: 23005083
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
